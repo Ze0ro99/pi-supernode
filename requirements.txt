@@ -4,7 +4,7 @@ Flask-RESTful==0.3.9        # An extension for Flask that adds support for quick
 requests==2.33.0            # A simple HTTP library for making requests to other services
 
 # Testing dependencies
-pytest==7.1.2               # A framework that makes building simple and scalable test cases easy
+pytest==9.0.3               # A framework that makes building simple and scalable test cases easy
 pytest-cov==3.0.0           # A plugin for measuring code coverage in pytest
 
 # Database interaction (if applicable)
@@ -25,4 +25,4 @@ eth-brownie==1.19.0         # A Python-based development and testing framework f
 loguru==0.6.0               # A library that simplifies logging in Python applications
 
 # Optional: For configuration management
-python-dotenv==0.20.0       # A library to load environment variables from a .env file
+python-dotenv==1.2.2       # A library to load environment variables from a .env file
